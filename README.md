@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shoujiwygcf
-- 👀 I am interested in C language.
-- 🌱 I am learning C language.
+- 👀 I am interested in C development and Android development.
+- 🌱 I'm learning C language development and Android development.
 - 💞️ I currently have no job.
 - 📫 My email is: wygchunfei@163.com
 <!---
